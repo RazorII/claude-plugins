@@ -15,6 +15,16 @@
       },
       "description": "Convert Word documents (.docx, .doc, .rtf, .odt) to PDF headlessly, then check the PDF's page count, fonts, text and pictures against the document.",
       "homepage": "https://github.com/RazorII/docpdf"
+    },
+    {
+      "name": "gdocout",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/RazorII/gdocout.git",
+        "path": "claude-plugin"
+      },
+      "description": "Turn Google Docs, Sheets and Slides into Word, Excel and PowerPoint files without signing in: one link, or a whole Google Drive saved offline, with a filterable report of every file and why any couldn't be saved.",
+      "homepage": "https://github.com/RazorII/gdocout"
     }
   ]
 }
