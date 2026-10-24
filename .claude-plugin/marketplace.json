@@ -23,7 +23,7 @@
         "url": "https://github.com/RazorII/gdocout.git",
         "path": "claude-plugin"
       },
-      "description": "Turn Google Docs, Sheets and Slides into Word, Excel and PowerPoint files without signing in: one link, or a whole Google Drive saved offline, with a filterable report of every file and why any couldn't be saved.",
+      "description": "Turn Google Docs, Sheets and Slides into Word, Excel and PowerPoint files without giving anything your Google password: one link, or a whole Google Drive saved offline, with a filterable report of every file and why any couldn't be saved.",
       "homepage": "https://github.com/RazorII/gdocout"
     }
   ]
