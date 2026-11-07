@@ -25,6 +25,16 @@
       },
       "description": "Turn Google Docs, Sheets and Slides into Word, Excel and PowerPoint files without giving anything your Google password: one link, or a whole Google Drive saved offline, with a filterable report of every file and why any couldn't be saved.",
       "homepage": "https://github.com/RazorII/gdocout"
+    },
+    {
+      "name": "pdfintake",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/RazorII/pdfintake.git",
+        "path": "claude-plugin"
+      },
+      "description": "Turn scans, phone photos and PDFs into small, searchable PDFs on your own computer: lossless image-to-PDF, an OCR text layer, lossless shrinking, and a smaller copy only when you ask for one. English is built in, and French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Thai and Vietnamese are language packs, downloaded the first time a document needs one.",
+      "homepage": "https://github.com/RazorII/pdfintake"
     }
   ]
 }
