@@ -35,6 +35,16 @@
       },
       "description": "Turn scans, phone photos and PDFs into small, searchable PDFs on your own computer: lossless image-to-PDF, an OCR text layer, lossless shrinking, and a smaller copy only when you ask for one. English is built in, and French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Thai and Vietnamese are language packs, downloaded the first time a document needs one.",
       "homepage": "https://github.com/RazorII/pdfintake"
+    },
+    {
+      "name": "audiointake",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/RazorII/audiointake.git",
+        "path": "claude-plugin"
+      },
+      "description": "Transcribe recordings on your Mac with Apple silicon and turn them into meeting notes: speakers told apart word by word, the ones whose voices you enrolled named, then a summary, decisions and action items above the speaker-labelled transcript. Transcription runs on your Mac and never goes online. Core reads English, Spanish, German and 22 more European languages; optional packs add Hungarian and Thai.",
+      "homepage": "https://github.com/RazorII/audiointake"
     }
   ]
 }
